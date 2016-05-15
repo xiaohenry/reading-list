@@ -1,7 +1,7 @@
 # Reading List
 
 ## Career / CS-Oriented
-- The Mythical Man-Mouth (Project Management)
+- The Mythical Man-Mouth
 - About the Human Elements Affecting Software Engineering (Project Management)
 
 ## Self-Help / Leisure
