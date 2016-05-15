@@ -2,7 +2,7 @@
 
 ## Career / CS-Oriented
 - The Mythical Man-Mouth
-- About the Human Elements Affecting Software Engineering (Project Management)
+- About the Human Elements Affecting Software Engineering (Leadership)
 
 ## Self-Help / Leisure
 - Surely You're Joking Mr. Feynman
